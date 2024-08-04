@@ -16,4 +16,4 @@ print(f'Suma: {aritmetica1.sumar()}')
 print(f'Resta: {aritmetica1.restar()}')
 print(f'Multiplicación: {aritmetica1.multiplicar()}')
 print(f'Dividar: {aritmetica1.dividir():.2f}')
-
+ 
